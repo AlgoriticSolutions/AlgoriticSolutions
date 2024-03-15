@@ -1,4 +1,4 @@
-![Banner](https://github.com/AlgoriticSolutions/AlgoriticSolutions/assets/163481852/112f173b-0f52-43f1-89d8-f995575d16cf)
+![Algoritic Github Bannner](https://github.com/AlgoriticSolutions/AlgoriticSolutions/assets/163481852/f74cd63d-b7e3-437d-88ac-5dd2566abdef)
 # ALGORITIC SOLUTIONS
 
 # Who we are
